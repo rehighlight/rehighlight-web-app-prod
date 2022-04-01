@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as _}from"./index.885d2680.js";const r={},c={class:"register"},o=_("h1",null,"Register",-1),a=[o];function n(i,d){return s(),t("div",c,a)}var f=e(r,[["render",n]]);export{f as default};

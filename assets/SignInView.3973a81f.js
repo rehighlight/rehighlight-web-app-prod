@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as _,a as s}from"./index.885d2680.js";const t={},c={class:"signin"},o=s("h1",null,"Sign In",-1),a=[o];function i(r,d){return n(),_("div",c,a)}var f=e(t,[["render",i]]);export{f as default};
